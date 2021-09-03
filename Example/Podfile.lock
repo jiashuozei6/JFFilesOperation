@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JFFilesOperation (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JFFilesOperation (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JFFilesOperation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JFFilesOperation: 67333ea1119282581ff16c0a71e1f9592bef83b1
+
+PODFILE CHECKSUM: 3b987200d4fb42b33cae3675092eab35fc1c62eb
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Pods_JFFilesOperation_Example {
+  umbrella header "Pods-JFFilesOperation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

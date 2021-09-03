@@ -1,0 +1,6 @@
+framework module JFFileOperations {
+  umbrella header "JFFileOperations.h"
+
+  export *
+  module * { export * }
+}
